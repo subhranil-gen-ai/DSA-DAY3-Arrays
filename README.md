@@ -6,3 +6,9 @@ Python solutions for logic-based array problems (Day 3 of DSA practice) Includes
 - Swap first and last elements
 - Difference between even and odd sums
   
+Language: Python 🐍
+
+# Author
+Subhranil Dutta
+CSE | GenAI & DSA Learner | Python Developer  
+🔗 [GitHub Profile](https://github.com/subhranil-gen-ai)
